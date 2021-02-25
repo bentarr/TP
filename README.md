@@ -15,3 +15,5 @@
 --> Rentrer la commande : choco install meteor
 
 --> une fois placé dans le dossier acceuillant le projet, lancer un "meteor create myapp"
+
+--> Une fois le projet crée, lancer un "meteor" dans le dossier du projet ici "myapp"
