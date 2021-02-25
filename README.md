@@ -14,5 +14,7 @@
 
 --> une fois placé dans le dossier acceuillant le projet, lancer un "meteor create myapp --blaze"
 
+le "--blaze" permet de choisir la technologie utilisée, --react, --vue.....
+
 --> Une fois le projet crée, lancer un "meteor" dans le dossier du projet, ici "myapp"
 ```
